@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "adm-zip": "^0.4.13",
+    "fs": "0.0.1-security",
+    "http": "^0.0.0",
+    "officegen": "^0.6.0"
+  }
+}
